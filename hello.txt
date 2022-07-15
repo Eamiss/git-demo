@@ -1,5 +1,0 @@
-hello git
-nihao zhangsa 
-nihao lisi master test
-nihao lisi zhangsan wanglaowu.
-public test
